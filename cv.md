@@ -9,7 +9,7 @@ ___
 
 
 ## About myself:
-I am studying on 3rd semester on a programming course, my goal is learn everything new and interesting, i want to get knowledge and skills that will be enough for employment in the company.
+I am studying on 3rd course on a programming , my goal is learn everything new and interesting, i want to get knowledge and skills that will be enough for employment in the company.
 
 ## Skills:
 
