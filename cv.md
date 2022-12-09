@@ -18,3 +18,8 @@ I am studying on 3rd course on a programming , my goal is learn everything new a
 * JavaScript(basic knowledge)
 * Figma
 * Git (Курсы Git в моем колледже)
+
+## Code exmple:
+
+
+
