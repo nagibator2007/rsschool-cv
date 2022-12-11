@@ -1,1 +1,1 @@
-https://nagibator2007.github.io/rsschool-cv/cv
+https://nagibator2007.github.io/rsschool-cv/
