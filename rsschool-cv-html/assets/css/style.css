@@ -4,6 +4,7 @@
     padding: 0;
 }
 
+
 body {
     min-width: 320px;
     min-height: 100vh;
@@ -15,8 +16,59 @@ body {
 .conteiner{
     max-width: 1200px;
     margin: 0 auto;
+    
 }
 
+            /*Шапка*/
 .header {
     padding: 20px 0;
+}
+
+.head__text{
+    font-size: 75px;
+    line-height: 1;
+    letter-spacing: 2px;
+}
+
+            /*Main*/
+.main{
+
+border-radius: 50px;
+justify-content: space-between;
+width: 100%;
+}
+.style__menu{
+    font-weight: bold;
+}
+
+.contacts__text{
+    padding: 20px;
+    padding-top: 0;
+}
+.skill__menu{
+    padding: 20px;
+    padding-top: 0;
+}
+.title {
+    margin-bottom: 20px;
+    padding-left: 40px;
+    border-radius: 20px;
+    background-color:rgb(194, 193, 193);
+    letter-spacing: 2px;
+}
+.code__text{
+    padding: 20px;
+    padding-top: 0;
+}
+
+            /*Footer*/
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    align-items: center;
+}
+.footer__img{
+    width: 100px;
+    height: 100px;
 }
